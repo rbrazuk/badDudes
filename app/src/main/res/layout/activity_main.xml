@@ -29,12 +29,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="some bullshit"
+        android:text="The President has been kidnapped by ninjas!"
         android:id="@+id/messageLabel"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="35dp"
         android:textColor="#000000"
-        android:textSize="20sp" />
+        android:textSize="20sp"
+        android:textAlignment="center" />
 
 </RelativeLayout>
